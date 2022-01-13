@@ -1,0 +1,18 @@
+body{
+    background-color: lightblue;
+}
+h3{
+    text-align: center;
+}
+input{
+    display: block;
+    margin: 0 auto;
+}
+form{
+    text-align: center;
+}
+button{
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+}
